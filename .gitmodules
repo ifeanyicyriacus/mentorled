@@ -1,0 +1,3 @@
+[submodule "simplequote"]
+	path = simplequote
+	url = https://github.com/ifeanyicyriacus/simplequote-mentorled.git
