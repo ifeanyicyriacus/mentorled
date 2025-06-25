@@ -1,3 +1,6 @@
 [submodule "simplequote"]
 	path = simplequote
 	url = https://github.com/ifeanyicyriacus/simplequote-mentorled.git
+[submodule "user_auth_system"]
+	path = user_auth_system
+	url = https://github.com/ifeanyicyriacus/user_auth_system-menthorled.git
